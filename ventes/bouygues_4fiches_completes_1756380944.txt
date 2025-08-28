@@ -1,0 +1,67 @@
+=== FICHES COMPLÈTES ===
+Produit: BOUYGUES
+Quantité: 4 fiches
+Track ID: 164529585
+Date: 2025-08-28 13:35:44
+==================================================
+
+=== FICHE 1 ===
+#787 Fiches
+Prenom : JEAN PIERRE
+Nom : JACQ
+Date de naissance : 15/07/1951
+Email : jean-pierre.jacq8@orange.fr
+Numéro : 0607975108
+Adresse : 67 RUE ALBERT LEBOURG
+Code postale : 76290
+Ville: MONTIVILLIERS
+Fixe : 0235139858
+IBAN : FR7630004013070000829268466
+BIC : BNPAFRPPXXX
+==============================
+
+=== FICHE 2 ===
+#706 Fiches
+Prenom : JACQUES
+Nom : REBOUR
+Date de naissance : 03/06/1938
+Email : jacquesrebour@free.fr
+Numéro : 0607597007
+Adresse : 3 RUE DES PROTESTANTS
+Code postale : 76600
+Ville: LE HAVRE
+Fixe : 0954501679
+IBAN : FR7630004014070000784187671
+BIC : BNPAFRPPXXX
+==============================
+
+=== FICHE 3 ===
+#508 Fiches
+Prenom : REYNALD
+Nom : PETIT
+Date de naissance : 09/06/1952
+Email : chubreynald@hotmail.com
+Numéro : 0646513782
+Adresse : 1001 ROUTE DE NEUFCHATEL
+Code postale : 76230
+Ville: BOIS GUILLAUME
+Fixe : 0253879935
+IBAN : FR7630004001810000234845397
+BIC : BNPAFRPPXXX
+==============================
+
+=== FICHE 4 ===
+#637 Fiches
+Prenom : ALAIN
+Nom : VIEILLEPEAU
+Date de naissance : 10/04/1947
+Email : lesmagnolias47@free.fr
+Numéro : 0634987433
+Adresse : 11 RES APLEMOUR ,LES MAGNOLIAS
+Code postale : 76700
+Ville: SAINT LAURENT DE BREVEDENT
+Fixe : 0952934571
+IBAN : FR7630004000700000056129509
+BIC : BNPAFRPPXXX
+==============================
+

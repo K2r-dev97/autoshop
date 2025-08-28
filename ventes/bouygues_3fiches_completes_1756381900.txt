@@ -1,0 +1,52 @@
+=== FICHES COMPLÈTES ===
+Produit: BOUYGUES
+Quantité: 3 fiches
+Track ID: 172993841
+Date: 2025-08-28 13:51:40
+==================================================
+
+=== FICHE 1 ===
+#784 Fiches
+Prenom : MICHELINE
+Nom : CLET
+Date de naissance : 10/11/1949
+Email : N/A
+Numéro : 0675570845
+Adresse : 34 RUE DE LA PROVIDENCE
+Code postale : 76550
+Ville: ST AUBIN SUR SCIE
+Fixe : 0952826876
+IBAN : FR7618306000366312460200083
+BIC : AGRIFRPP883
+==============================
+
+=== FICHE 2 ===
+#694 Fiches
+Prenom : HENRIETTE
+Nom : LESUEUR
+Date de naissance : 06/04/1945
+Email : nenette_76140@hotmail.fr
+Numéro : 0783051365
+Adresse : 6 RUE ARMAND CARREL
+Code postale : 76140
+Ville: PETIT QUEVILLY LE
+Fixe : 0952469739
+IBAN : FR7618306000103611680477263
+BIC : AGRIFRPP883
+==============================
+
+=== FICHE 3 ===
+#544 Fiches
+Prenom : FRANCOISE
+Nom : GUILLOT
+Date de naissance : 12/02/1945
+Email : guillotfrancoise45@gmail.com
+Numéro : 0620759113
+Adresse : 22 ALLEE JOHN KENNEDY
+Code postale : 76170
+Ville: LILLEBONNE
+Fixe : 0235381351
+IBAN : FR7618306000660757234400037
+BIC : AGRIFRPP883
+==============================
+

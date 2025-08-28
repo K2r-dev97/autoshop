@@ -1,0 +1,37 @@
+=== FICHES COMPLÈTES ===
+Produit: BOUYGUES
+Quantité: 2 fiches
+Track ID: 170773528
+Date: 2025-08-28 13:19:59
+==================================================
+
+=== FICHE 1 ===
+#88 Fiches
+Prenom : MARCEL
+Nom : DALLET
+Date de naissance : 24/12/1942
+Email : dalletmarcel@gmail.com
+Numéro : 0684010674
+Adresse : 17 RUE DU HOME
+Code postale : 76450
+Ville: CANY BARVILLE
+Fixe : 0950273509
+IBAN : FR6020041010140290205U03554
+BIC : PSSTFRPPROU
+==============================
+
+=== FICHE 2 ===
+#549 Fiches
+Prenom : JOEL
+Nom : RIBERT
+Date de naissance : 26/12/1954
+Email : sylviane76113@gmail.com
+Numéro : 0636494900
+Adresse : 2 PLACE ALAIN
+Code postale : 76150
+Ville: MAROMME
+Fixe : 0972871346
+IBAN : FR0720041010140987006L03555
+BIC : PSSTFRPPROU
+==============================
+

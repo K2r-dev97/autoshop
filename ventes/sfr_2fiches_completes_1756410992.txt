@@ -1,0 +1,37 @@
+=== FICHES COMPLÈTES ===
+Produit: SFR
+Quantité: 2 fiches
+Track ID: 127420865
+Date: 2025-08-28 21:56:32
+==================================================
+
+=== FICHE 1 ===
+#475 Fiches
+Prenom : MARTINE
+Nom : BORNIC
+Date de naissance : 23/08/1951
+Email : tinou2408@gmail.com
+Numéro : 0612059386
+Adresse : 579 CHEMIN DE LA FORET VERTE
+Code postale : 76230
+Ville: BOIS GUILLAUME BIHOREL
+Fixe : 0951999599
+IBAN : FR7618306000103609067760244
+BIC : AGRIFRPP883
+==============================
+
+=== FICHE 2 ===
+#488 Fiches
+Prenom : MARIE JOSEPHE
+Nom : CORDIER
+Date de naissance : 13/12/1952
+Email : christophe.housset@icloud.com
+Numéro : 0638697887
+Adresse : 39 RUE BERTHET BURLET
+Code postale : 76590
+Ville: LONGUEVILLE SUR SCIE
+Fixe : 0232065431
+IBAN : FR7618306000550083008900058
+BIC : AGRIFRPP883
+==============================
+

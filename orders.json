@@ -1,0 +1,96 @@
+{
+  "7433846654": [
+    {
+      "ts": 1756221028,
+      "category": "telecom",
+      "product": "x1000 Fiches [6087668882]",
+      "qty": 500,
+      "unit_price": 0.2,
+      "discount_pct": 0,
+      "total_paid": 100.0
+    },
+    {
+      "ts": 1756221424,
+      "category": "telecom",
+      "product": "x1000 Fiches [6087668882]",
+      "qty": 500,
+      "unit_price": 0.2,
+      "discount_pct": 0,
+      "total_paid": 100.0
+    },
+    {
+      "ts": 1756285931,
+      "category": "telecom",
+      "product": "free",
+      "qty": 500,
+      "unit_price": 0.16,
+      "discount_pct": 0,
+      "total_paid": 80.0
+    },
+    {
+      "ts": 1756289554,
+      "category": "telecom",
+      "product": "sfr",
+      "qty": 1,
+      "unit_price": 0.18,
+      "discount_pct": 0,
+      "total_paid": 0.18
+    },
+    {
+      "ts": 1756289967,
+      "category": "telecom",
+      "product": "sfr",
+      "qty": 2,
+      "unit_price": 0.18,
+      "discount_pct": 0,
+      "total_paid": 0.36
+    },
+    {
+      "ts": 1756290610,
+      "category": "telecom",
+      "product": "free",
+      "qty": 1,
+      "unit_price": 0.16,
+      "discount_pct": 0,
+      "total_paid": 0.16
+    },
+    {
+      "ts": 1756298901,
+      "category": "telecom",
+      "product": "📱 bouygues",
+      "qty": 1,
+      "unit_price": 0.2,
+      "discount_pct": 0,
+      "total_paid": 0.2
+    },
+    {
+      "ts": 1756303141,
+      "category": "telecom",
+      "product": "📱 bouygues",
+      "qty": 1,
+      "unit_price": 0.2,
+      "discount_pct": 0,
+      "total_paid": 0.2
+    }
+  ],
+  "7032464189": [
+    {
+      "ts": 1756288243,
+      "category": "telecom",
+      "product": "bouygues",
+      "qty": 2,
+      "unit_price": 0.22,
+      "discount_pct": 0,
+      "total_paid": 0.44
+    },
+    {
+      "ts": 1756288418,
+      "category": "telecom",
+      "product": "sfr",
+      "qty": 2,
+      "unit_price": 0.18,
+      "discount_pct": 0,
+      "total_paid": 0.36
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+=== FICHES COMPLÈTES ===
+Produit: BOUYGUES
+Quantité: 2 fiches
+Track ID: 159478160
+Date: 2025-08-28 12:51:17
+==================================================
+
+=== FICHE 1 ===
+#1674 Fiches
+Prenom : LAMINE
+Nom : MOHAMADOU
+Date de naissance : 24/04/1966
+Email : lamine.mohamadou@yahoo.fr
+Numéro : 0686934293
+Adresse : 106 AVENUE DU GENERAL LECLERC
+Code postale : 28100
+Ville: DREUX
+Fixe : 0986158601
+IBAN : FR7630003017040005009789649
+BIC : SOGEFRPPXXX
+==============================
+
+=== FICHE 2 ===
+#1354 Fiches
+Prenom : MARIE
+Nom : LAMBERT
+Date de naissance : N/A
+Email : lambertestrade@gmail.com
+Numéro : 0619210174
+Adresse : 61 RUE DE SERBIE
+Code postale : 73000
+Ville: CHAMBERY
+Fixe : 0952308695
+IBAN : FR7630003005700005040947442
+BIC : SOGEFRPPXXX
+==============================
+

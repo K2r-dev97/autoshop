@@ -1,0 +1,37 @@
+=== FICHES COMPLÈTES ===
+Produit: FREE
+Quantité: 2 fiches
+Track ID: 137528822
+Date: 2025-08-28 16:49:49
+==================================================
+
+=== FICHE 1 ===
+#3234 Fiches
+Prenom : STELA
+Nom : PETROVA
+Date de naissance : 22/04/1975
+Email : kiril.damianov@icloud.com
+Numéro : 0652834193
+Adresse : 357 BOULEVARD PIERRE DELMAS
+Code postale : 06600
+Ville: ANTIBES
+Fixe : 0955028416
+IBAN : FR7630003004810005051063646
+BIC : SOGEFRPPXXX
+==============================
+
+=== FICHE 2 ===
+#3432 Fiches
+Prenom : PIERRE CHARLES
+Nom : CARPENTIER
+Date de naissance : 30/04/1946
+Email : pierre.carpentier1@yahoo.com
+Numéro : 0660425839
+Adresse : 6 RUE DOROTHEE
+Code postale : 62520
+Ville: LE TOUQUET PARIS PLAGE
+Fixe : 0988073887
+IBAN : FR7630003011160005012092325
+BIC : SOGEFRPPXXX
+==============================
+

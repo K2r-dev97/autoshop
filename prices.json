@@ -1,0 +1,8 @@
+{
+  "telecom": {
+    "free": 0.1,
+    "sfr": 0.15,
+    "bouygues": 0.5
+  },
+  "crypto": 0.15
+}

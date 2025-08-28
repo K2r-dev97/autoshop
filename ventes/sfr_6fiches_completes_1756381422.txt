@@ -1,0 +1,97 @@
+=== FICHES COMPLÈTES ===
+Produit: SFR
+Quantité: 6 fiches
+Track ID: 149807034
+Date: 2025-08-28 13:43:42
+==================================================
+
+=== FICHE 1 ===
+#945 Fiches
+Prenom : AIME
+Nom : HARAUX
+Date de naissance : 02/10/1945
+Email : aime.haraux@orange.fr
+Numéro : 0766279583
+Adresse : 190 RUE DU CALVAIRE
+Code postale : 76520
+Ville: MONTMAIN
+Fixe : 0961315087
+IBAN : FR3630002083000000061830A17
+BIC : CRLYFRPPXXX
+==============================
+
+=== FICHE 2 ===
+#80 Fiches
+Prenom : JOEL
+Nom : BODELLE
+Date de naissance : 23/04/1955
+Email : bodellejoel@yahoo.fr
+Numéro : 0619304958
+Adresse : 1121 RUE RAYMOND BRETECHE
+Code postale : 76580
+Ville: LE TRAIT
+Fixe : 0235372479
+IBAN : FR7630004001250000089818336
+BIC : BNPAFRPPXXX
+==============================
+
+=== FICHE 3 ===
+#768 Fiches
+Prenom : ANNA
+Nom : CALDERONI
+Date de naissance : 12/08/1944
+Email : calderoni.hugo@gmail.com
+Numéro : 0608374083
+Adresse : 42B RUE JEAN JACQUES ROUSSEAU
+Code postale : 76350
+Ville: OISSEL
+Fixe : 0235649242
+IBAN : FR7630027160260002816760128
+BIC : CMCIFRPPXXX
+==============================
+
+=== FICHE 4 ===
+#681 Fiches
+Prenom : MIREILLE
+Nom : GOSSELIN
+Date de naissance : 09/02/1952
+Email : shakke@hotmail.fr
+Numéro : 0769160671
+Adresse : 186 RUE PRESIDENT KENNEDY
+Code postale : 76420
+Ville: BIHOREL
+Fixe : 0980496998
+IBAN : FR7618306000100091914400020
+BIC : AGRIFRPP883
+==============================
+
+=== FICHE 5 ===
+#418 Fiches
+Prenom : GHISLAINE
+Nom : DESSENT
+Date de naissance : 25/02/1953
+Email : ghislainedessent@aol.com
+Numéro : 0611082001
+Adresse : 9E RUE EMILE DUPLOYE
+Code postale : 76000
+Ville: ROUEN
+Fixe : 0980360242
+IBAN : FR7612135003000488540904047
+BIC : CEPAFRPP213
+==============================
+
+=== FICHE 6 ===
+#966 Fiches
+Prenom : DANIEL
+Nom : PLANQUAIS
+Date de naissance : 27/01/1950
+Email : papymutty@gmail.com
+Numéro : 0672827492
+Adresse : 242 RUE DES PINSONS
+Code postale : 76690
+Ville: CLERES
+Fixe : 0973666045
+IBAN : FR7630027160210003379280178
+BIC : CMCIFRPPXXX
+==============================
+

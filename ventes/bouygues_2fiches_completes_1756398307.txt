@@ -1,0 +1,37 @@
+=== FICHES COMPLÈTES ===
+Produit: BOUYGUES
+Quantité: 2 fiches
+Track ID: 103601693
+Date: 2025-08-28 18:25:07
+==================================================
+
+=== FICHE 1 ===
+#3176 Fiches
+Prenom : PIERRE
+Nom : FREUND
+Date de naissance : 04/05/1984
+Email : pierre.freund@gmail.com
+Numéro : 0749356834
+Adresse : 7 RUE EMILE LANDRIN
+Code postale : 75020
+Ville: PARIS
+Fixe : 0953221513
+IBAN : FR7630003030470005000679052
+BIC : SOGEFRPP
+==============================
+
+=== FICHE 2 ===
+#1889 Fiches
+Prenom : FOULEMATA
+Nom : CISSOKHO
+Date de naissance : N/A
+Email : haby-74@hotmail.fr
+Numéro : 0758334484
+Adresse : 618 AVENUE DU CROZET
+Code postale : 74950
+Ville: SCIONZIER
+Fixe : 0951194603
+IBAN : FR7630003010760005006559657
+BIC : SOGEFRPP
+==============================
+
